@@ -25,13 +25,10 @@ We use reasonable safeguards to protect information, but no system is completely
 ## 6. Your Rights  
 You may contact us to request access, correction, or deletion of your personal information where applicable law provides such rights.
 
-## 7. Children’s Privacy  
-This website is not directed to children under 13. We do not knowingly collect personal information from children.
-
-## 8. Changes to this Policy  
+## 7. Changes to this Policy  
 We may update this Privacy Policy from time to time. Updated versions will be posted on this page with a new effective date.
 
-## 9. Contact  
+## 8. Contact  
 For questions about this Privacy Policy, please contact us at:  
 **Email:** legendsalon@gmail.com  
 **Phone:** (586) 258-3488  
